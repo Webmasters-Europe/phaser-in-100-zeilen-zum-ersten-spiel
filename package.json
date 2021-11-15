@@ -1,0 +1,22 @@
+{
+  "name": "phaser_talk_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webmasters-Europe/phaser-in-100-zeilen-zum-ersten-spiel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webmasters-Europe/phaser-in-100-zeilen-zum-ersten-spiel/issues"
+  },
+  "homepage": "https://github.com/Webmasters-Europe/phaser-in-100-zeilen-zum-ersten-spiel#readme",
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
